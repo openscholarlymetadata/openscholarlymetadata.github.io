@@ -13,7 +13,7 @@ permalink: /board/
 
 <dl>
     <dt><strong>International Advisory Board for OpenCitations</strong></dt>
-    <dd><a href="https://twitter.com/LudoWaltman">Ludo Waltman</a> (University of Leiden) <strong><em>[chair]</em></strong></dd>
+    <dd><a href="https://twitter.com/LudoWaltman">Ludo Waltman</a> (University of Leiden) <em>[chair]</em></dd>
     <dd>(Other members will be listed soon)</dd>
 </dl>
 
