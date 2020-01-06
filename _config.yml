@@ -21,10 +21,10 @@ avatar: /images/logo_color.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: silvio.peroni@unibo.it
+  email: silvio.peroni@unibo.it  # TODO: change
   facebook:
   flickr:
-  github: openscholarlymetadata/openscholarlymetadata.github.io
+  github: openscholarlymetadata
   instagram:
   linkedin: 
   pinterest:
