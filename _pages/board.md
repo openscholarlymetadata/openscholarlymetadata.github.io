@@ -15,8 +15,8 @@ permalink: /board/
     <dt><strong>International Advisory Board for OpenCitations</strong></dt>
     <dd><a href="https://twitter.com/chodacki">John Chodacki</a> (Director of University of California Curation Center, California Digital Library)</dd>
     <dd><a href="https://twitter.com/GinnyLDN">Ginny Hendricks</a> (Director of Member & Community Outreach, Crossref)</dd>
-    <dd><a href="http://umr-lisis.fr/membre/philippe-laredo/">Philippe Laredo</a> (Director of Research in the Interdisciplinary Laboratory of Scientific  Innovations and Society, Université Gustave Eiffel)</dd>
     <dd><a href="https://twitter.com/lariviev">Vincent Larivière</a> (Canadian Research Chair on the Transformation of Scholarly Communication, University of Montréal)</dd>
+    <dd><a href="http://umr-lisis.fr/membre/philippe-laredo/">Philippe Laredo</a> (Director of Research in the Interdisciplinary Laboratory of Scientific  Innovations and Society, Université Gustave Eiffel)</dd>
     <dd><a href="https://twitter.com/catmacOA">Catriona Maccallum</a> (Director of Open Science, Hindawi Open Access Publisher)</dd>
     <dd><a href="https://twitter.com/CameronNeylon">Cameron Neylon</a> (Professor of Research Communications, Centre for Culture and Technology, Curtin University)</dd>
     <dd><a href="https://twitter.com/C_Stihler">Catherine Stihler</a> (Chief Executive Officer, Open Knowledge Foundation)</dd>
