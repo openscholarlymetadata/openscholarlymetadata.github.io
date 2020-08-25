@@ -43,5 +43,6 @@ permalink: /board/
 
 <dl>
     <dt><strong>Past collaborators</strong></dt>
+    <dd><a href="https://www.unibo.it/sitoweb/sebastian.barzaghi2/en">Sebastian Barzaghi</a> (as master student)</dd>
     <dd><a href="https://github.com/FabioMariani">Fabio Mariani</a> (as master student)</dd>
 </dl>
