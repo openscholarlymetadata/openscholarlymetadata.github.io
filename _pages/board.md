@@ -38,6 +38,7 @@ permalink: /board/
     <dd><a href="https://github.com/iosonopersia/">Simone Persiani</a> (scholarship recipient)</dd>
     <dd><a href="https://github.com/GabrielePisciotta">Gabriele Pisciotta</a> (scholarship recipient)</dd>
     <dd><a href="https://bv.fapesp.br/pt/pesquisador/48322/erika-alves-dos-santos/">Erika Alves dos Santos</a> (visiting Ph.D. student)</dd>
+    <dd><a href="https://github.com/gspinaci">Gianmarco Spinaci</a> (master student)</dd>
 </dl>
 
 <dl>
