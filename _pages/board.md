@@ -19,7 +19,6 @@ permalink: /board/
     <dd><a href="https://twitter.com/lariviev">Vincent Larivière</a> (Canadian Research Chair on the Transformation of Scholarly Communication, University of Montréal)</dd>
     <dd><a href="https://twitter.com/catmacOA">Catriona Maccallum</a> (Director of Open Science, Hindawi Open Access Publisher)</dd>
     <dd><a href="https://twitter.com/CameronNeylon">Cameron Neylon</a> (Professor of Research Communications, Centre for Culture and Technology, Curtin University)</dd>
-    <dd><a href="https://twitter.com/C_Stihler">Catherine Stihler</a> (Chief Executive Officer, Open Knowledge Foundation)</dd>
     <dd><a href="https://twitter.com/LudoWaltman">Ludo Waltman</a> (Professor of Quantitative Science Studies and Deputy Director, Centre for Science and Technology Studies (CWTS), Leiden University) <em>[chair]</em></dd>
 </dl>
 
