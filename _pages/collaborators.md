@@ -7,6 +7,7 @@ permalink: /collaborators/
 <dl>
     <dt><strong>Current collaborators</strong></dt>
     <dd><a href="https://github.com/federicabologna">Federica Bologna</a> (scholarship recipient)</dd>
+    <dd><a href="https://github.com/alessia438">Alessia Cioffi</a> (master student)</dd>
     <dd><a href="https://github.com/giuseppegrieco">Giuseppe Grieco</a> (scholarship recipient)</dd>
     <dd><a href="https://github.com/arcangelo7">Arcangelo Massari</a> (master student)</dd>
     <dd><a href="https://github.com/ariannamorettj">Arianna Moretti</a> (master student)</dd>
