@@ -27,7 +27,9 @@ permalink: /board/
 <dl>
     <dt><strong>Other members of the Research Centre</strong></dt>
     <dd><a href="https://twitter.com/emmedaquino">Marilena Daquino</a> (University of Bologna)</dd>
+    <dd><a href="https://www.linkedin.com/in/chiara-di-giambattista-6aba8b154">Chiara Di Giambattista</a> (University of Bologna)</dd>
     <dd><a href="https://www.unibo.it/sitoweb/angelo.diiorio/">Angelo Di Iorio</a> (University of Bologna)</dd>
+    <dd>Claudio Fabbri (University of Bologna)</dd>
     <dd><a href="https://twitter.com/ivanHeiB">Ivan Heibi</a> (University of Bologna)</dd>
     <dd><a href="https://twitter.com/fvitali">Fabio Vitali</a> (University of Bologna)</dd>
 </dl>
