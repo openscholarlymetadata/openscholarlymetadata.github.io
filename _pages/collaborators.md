@@ -6,7 +6,6 @@ permalink: /collaborators/
 
 <dl>
     <dt><strong>Current collaborators</strong></dt>
-    <dd><a href="https://www.linkedin.com/in/davide-brembilla-7884b3150/">Davide Brembilla</a> (as master student)</dd>
     <dd><a href="https://github.com/arcangelo7">Arcangelo Massari</a> (Research Fellow)</dd>
     <dd><a href="https://github.com/ariannamorettj">Arianna Moretti</a> (Research Fellow)</dd>
     <dd><a href="https://github.com/eliarizzetto">Elia Rizzetto</a> (as master student)</dd>
@@ -14,6 +13,7 @@ permalink: /collaborators/
 
 <dl>
     <dt><strong>Past collaborators</strong></dt>
+    <dd><a href="https://www.linkedin.com/in/davide-brembilla-7884b3150/">Davide Brembilla</a> (as master student)</dd>
     <dd><a href="https://bv.fapesp.br/pt/pesquisador/48322/erika-alves-dos-santos/">Erika Alves dos Santos</a> (as visiting Ph.D. student)</dd>
     <dd><a href="https://www.unibo.it/sitoweb/sebastian.barzaghi2/en">Sebastian Barzaghi</a> (as master student)</dd>
     <dd><a href="https://github.com/federicabologna">Federica Bologna</a> (as scholarship recipient)</dd>
