@@ -13,6 +13,7 @@ permalink: /board/
     <dt><strong>International Advisory Board for OpenCitations</strong></dt>
     <dd><a href="https://www.dagstuhl.de/en/institute/team/details/MRA">Marcel R. Ackermann</a> (Team Lead of dblp Computer Science Bibliography)</dd>
     <dd><a href="https://www.linkedin.com/in/mariagould/">Maria Gould</a> (Product Director at DataCite and Director of ROR)</dd>
+    <dd><a href="https://www.linkedin.com/in/catriona-maccallum-5516013/">Catriona MacCallum</a> (Director, Future of Scholarly Research, Wiley)</dd>
     <dd><a href="https://www.dal.ca/faculty/management/faculty-staff/our-faculty/philippe-mongeon.html">Philippe Mongeon</a> (Associate Professor and Chair of the Department of Information Science at University of Montreal)</dd>
     <dd><a href="https://staffportal.curtin.edu.au/staff/profile/view/cameron-neylon-d90b507b/">Cameron Neylon</a> (Professor of Research Communications, Centre for Culture and Technology, Curtin University)</dd>
     <dd><a href="https://www.linkedin.com/in/iratxe-puebla/?original_referer=https%3A%2F%2Fwww.google.com%2F&originalSubdomain=uk">Iratxe Puebla</a> (Director of Make Data Count) [chair]</dd>
