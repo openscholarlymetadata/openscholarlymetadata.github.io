@@ -19,7 +19,7 @@ permalink: /board/
     <dd><a href="https://www.linkedin.com/in/iratxe-puebla/?original_referer=https%3A%2F%2Fwww.google.com%2F&originalSubdomain=uk">Iratxe Puebla</a> (Director of Make Data Count) [chair]</dd>
     <dd><a href="https://www.crossref.org/people/dominika-tkaczyk/">Dominika Tkaczyk</a> (Director of Data Science at CrossRef)</dd>
     <dd><a href="https://cv.archives-ouvertes.fr/didier-torny">Didier Torny</a> (on behalf of the French Open Science Committee)</dd>
-    <dd><a href="https://www.universiteitleiden.nl/en/staffmembers/ludo-waltman#tab-1">Ludo Waltman</a> (Professor of Quantitative Science Studies and Deputy Director, Centre for Science and Technology Studies</a> (CWTS), Leiden University)</dd>
+    <dd><a href="https://www.universiteitleiden.nl/en/staffmembers/ludo-waltman#tab-1">Ludo Waltman</a> (Professor of Quantitative Science Studies and Deputy Director, Centre for Science and Technology Studies (CWTS), Leiden University)</dd>
 </dl>
 
 <dl>
